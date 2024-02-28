@@ -45,7 +45,7 @@ If the work or the code is helpful, please cite the paper:
 @article{wang2024directnet,
    author = {Wang, Degang and Zhuang, Lina and Gao, Lianru and Sun, Xu and Zhao, Xiaobin and Plaza, Antonio},
    title = {Sliding Dual-Window-Inspired Reconstruction Network for Hyperspectral Anomaly Detection},
-   journal = { IEEE Trans. Geosci. Remote Sens.},
+   journal = {IEEE Trans. Geosci. Remote Sens.},
    volume = {62},
    pages = {1-15},
    DOI = {10.1109/TGRS.2024.3351179},
@@ -55,7 +55,7 @@ If the work or the code is helpful, please cite the paper:
 
 ## Acknowledgement
 
-The codes are based on [Noise2Void](https://github.com/hanyoseob/pytorch-noise2void). Thanks for their awesome work.
+The codes are based on [Noise2Void](https://github.com/hanyoseob/pytorch-noise2void) and [BS<sup>3</sup>LNet](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet). Thanks for their awesome work.
 
 ## Contact
 For further questions or details, please directly reach out to wangdegang20@mails.ucas.ac.cn
